@@ -16,8 +16,6 @@ I'm an IT undergraduate at the **University of Moratuwa** passionate about softw
   <a href="https://github.com/KavindyaVidushani"><img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black" alt="GitHub"/></a>
   <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-white?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn"/></a>
   <a href="https://medium.com"><img src="https://img.shields.io/badge/Medium-white?style=for-the-badge&logo=medium&logoColor=black" alt="Medium"/></a>
-  <a href="https://facebook.com"><img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=black" alt="Facebook"/></a>
-  <a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-white?style=for-the-badge&logo=instagram&logoColor=black" alt="Instagram"/></a>
 </p>
 
 ---
