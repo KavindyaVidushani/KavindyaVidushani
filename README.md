@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kavindya%20Jayathilaka&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Information%20Technology%20%26%20Management%20(BSc%20Hons%20IT%26M)%20|%20Undergraduate%20|%20University%20of%20Moratuwa&descSize=16&descAlignY=55" width="100%" />
+  <img src="Banner image.png" width="100%" />
 </p>
 
 ### Hi there 👋 , I'm Kavindya Jayathilaka
